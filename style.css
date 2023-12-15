@@ -1,0 +1,39 @@
+.h1{
+    color: red;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.h3{
+    color: purple;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.h4-left{
+    color: rgb(108, 108, 52);
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.h3-hakkimizda{
+    color: rgb(108, 108, 52);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.p-center{
+    text-align: center;
+}
+.ul-style-center{
+    list-style-position: inside;
+    font-family: 'Roboto', sans-serif;
+}
+.img-height-200{
+    image-resolution: 300px;
+}
